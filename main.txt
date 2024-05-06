@@ -1,0 +1,40 @@
+date:2022-03-05
+category:Income
+sum:1234
+description:work
+date:2022-03-11
+category:Income
+sum:2123
+description:work
+date:2022-03-12
+category:Expenses
+sum:350
+description:Buy apple
+date:2022-03-15
+category:Income
+sum:250
+description:Search
+date:2022-03-15
+category:Expenses
+sum:1234
+description:Buy in WB
+date:2022-03-19
+category:Expenses
+sum:100
+description:Maxim
+date:2022-03-25
+category:Income
+sum:12600
+description:Work
+date:2022-03-25
+category:Expenses
+sum:12123
+description:Buy TV
+date:2022-03-26
+category:Expenses
+sum:50
+description:Given boy
+date:2022-03-28
+category:Income
+sum:50
+description:Boy
